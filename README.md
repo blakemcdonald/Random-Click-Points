@@ -1,5 +1,5 @@
 # Random-Click-Points
-Very basic WebGL application in which you click on a location to add a randomly colored 'pixel'. Very exciting stuff here!
+A very basic WebGL application in which you click on a location to add a randomly colored 'pixel'. Very exciting stuff here!
 
 # What I Learned
 
